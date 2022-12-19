@@ -4,7 +4,7 @@
 
 npm install
 
-## editar arquivo .env e inserir as credencias
+## editar arquivo .env e inserir as credenciais
 
 ## para executar o front acessar pasta SRC e executar
 
