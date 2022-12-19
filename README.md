@@ -1,4 +1,12 @@
-# Ethereum Marketplace
+# Projeto Disciplina Dapps Puc
 
-Mercado Blockchain baseado no tutorial do canal Dapp University (http://www.dappuniversity.com) 
-YouTube tutorial: https://www.youtube.com/watch?v=VH9Q2lf2mNo
+## executar na raiz do projeto
+
+npm install
+
+## editar arquivo .env e inserir as credencias
+
+## para executar o front acessar pasta SRC e executar
+
+npm start
+
