@@ -1,12 +1,45 @@
-# Projeto Disciplina Dapps Puc
+# App para comercialiaçao de produtos usando Web3
 
-## executar na raiz do projeto
+## Compra e venda direta 
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/marciogsantana/Disciplina_Dapps_Puc/blob/main/LICENCE)
+
+# Tecnologias utilizadas
+## Back end
+- Javascript
+- NodeJs
+- Solidity
+- truffle
+- Hadhat
+- Ganache
+- Docker
+- Docker Compose
+## Front end
+- HTML / CSS / JS / TypeScript
+- ReactJS
+- React Native
+## Iniciar o projeto
+
+# clonar repositório
+git clone https://github.com/marciogsantana/Disciplina_Dapps_Puc.git
+
+```bash
+
+# alterar o arqvuivo .env
+inserir as chaves para autenticação
+
+# Na raiz do projeto
+
+# instalar dependências
 npm install
 
-## editar arquivo .env e inserir as credenciais
+# acessar pasta src
+npm run start
+Acesse http://localhost:3000 para visualizar a página no browser
+```
 
-## para executar o front acessar pasta SRC e executar
+# Autor
 
-npm start
+Márcio Gomes de Santana
 
+https://www.linkedin.com/in/marcio-gomes-de-santana-05347198/
