@@ -1,4 +1,4 @@
-# App para comercialiaçao de produtos usando Web3
+# App para comercializaçao de produtos usando Web3
 
 ## Dapp desenvolvido na disciplina de Dapps Puc Minas curso Aplicações e Tecnologias de Blockchain
 
