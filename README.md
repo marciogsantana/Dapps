@@ -1,6 +1,6 @@
 # App para comercialiaçao de produtos usando Web3
 
-## Compra e venda direta 
+## Dapp desenvolvido na disciplina de Dapps Puc Minas curso Aplicação e Tecnologis de Blockchain
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/marciogsantana/Disciplina_Dapps_Puc/blob/main/LICENCE)
 
